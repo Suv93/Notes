@@ -1,0 +1,5 @@
+00:22:47	CLOUDDEPLOY:	https://github.com/rajulucky812/Setup_Files/blob/main/ansible_master_agent.txt
+00:23:05	CLOUDDEPLOY:	https://www.youtube.com/channel/UC87auwKRtE2Itbksg_MyVvQ
+00:29:47	CLOUDDEPLOY:	/etc/ansible/ansible.cfg/etc/ansible/host
+00:52:41	CLOUDDEPLOY:	https://github.com/rajulucky812/Setup_Files/blob/main/ansible_master_agent.txt
+00:52:49	CLOUDDEPLOY:	https://www.youtube.com/channel/UC87auwKRtE2Itbksg_MyVvQ

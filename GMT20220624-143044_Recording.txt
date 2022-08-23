@@ -1,0 +1,2 @@
+00:19:11	CLOUDDEPLOY:	https://rajutestwebsite156.s3.amazonaws.com/New+Text+Document.txt
+00:23:05	CLOUDDEPLOY:	https://freewebsitetemplates.com/#google_vignette

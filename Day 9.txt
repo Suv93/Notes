@@ -1,0 +1,1 @@
+00:15:29	CLOUDDEPLOY:	#!/bin/bashsudo yum install httpd git -ysudo git clone https://github.com/rajulucky812/ecologicalwebsitetemplate.git /var/www/html/sudo systemctl start httpdsudo systemctl enable httpd

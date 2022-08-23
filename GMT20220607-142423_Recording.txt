@@ -1,0 +1,8 @@
+00:13:35	vijay kumar:	Yes
+00:13:41	vijay kumar:	Virtual machine
+00:23:33	CLOUDDEPLOY:	https://www.virtualbox.org/wiki/Downloads
+00:24:02	CLOUDDEPLOY:	https://www.vagrantup.com/downloads
+00:25:21	CLOUDDEPLOY:	https://gitforwindows.org/
+00:27:39	CLOUDDEPLOY:	https://app.vagrantup.com/boxes/search?provider=virtualbox
+01:09:20	CLOUDDEPLOY:	mkfs -t ext4 /dev/xvdf
+01:10:09	CLOUDDEPLOY:	mount /dev/xvdf /newvolume

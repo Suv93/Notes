@@ -1,0 +1,2 @@
+00:17:46	CLOUDDEPLOY:	https://github.com/rajulucky812/Setup_Files/blob/main/awscli_commands.txt
+00:37:07	Suvarthi Sen:	configure hardware type,storage,networks,tags,create

@@ -1,0 +1,2 @@
+01:01:55	CLOUDDEPLOY:	#!/bin/bashsudo yum install httpd git -ysudo git clone https://github.com/rajulucky812/ecologicalwebsitetemplate.git /var/www/html/   sudo systemctl start httpdsudo systemctl restart httpd
+01:03:51	CLOUDDEPLOY:	http://18.191.246.160:80

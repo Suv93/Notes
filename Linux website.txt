@@ -1,0 +1,14 @@
+#!/bin/bash
+sudo yum install httpd git -y
+sudo git clone https://github.com/rajulucky812/ecologicalwebsitetemplate.git /var/www/html/   
+sudo systemctl start httpd
+sudo systemctl restart httpd
+http://18.191.246.160:80
+
+
+
+#!/bin/bash
+sudo yum install httpd git -y
+sudo git clone https://github.com/rajulucky812/ecologicalwebsitetemplate.git /var/www/html/
+sudo systemctl start httpd
+sudo systemctl enable httpd

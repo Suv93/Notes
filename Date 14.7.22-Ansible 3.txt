@@ -1,0 +1,5 @@
+00:24:26	CLOUDDEPLOY:	sudo yum install tomcat tomcat-webapps tomcat-admin-webapps tomcat-docs-webapp tomcat-javadoc -y
+00:28:41	CLOUDDEPLOY:	https://github.com/rajulucky812/jenkins-maven-tomcat
+00:43:52	CLOUDDEPLOY:	yum install java-1.8.0-openjdk -y yum install maven -y
+00:49:43	CLOUDDEPLOY:	tomcat:yum install tomcat tomcat-webapps tomcat-admin-webapps tomcat-docs-webapp tomcat-javadoc -yvi /usr/share/tomcat/conf/tomcat-users.xml<role rolename="tomcat"/><role rolename="admin-script"/><role rolename="manager-script"/><role rolename="manager-gui"/><role rolename="manager-jmx"/><role rolename="manager-status"/><role rolename="manager"/><role rolename="admin"/><user password="password" roles="tomcat" username="admin"/><user password="password" roles="manager-gui" username="admin"/><user password="password" roles="admin,admin-script,manager-gui,manager-script,manager-jmx,manager-status" username="admin"/>yum install java-1.8.0-openjdk -y yum install maven -y
+00:50:06	CLOUDDEPLOY:	https://github.com/rajulucky812/jenkins-docker-project.git

@@ -1,0 +1,2 @@
+00:36:52	CLOUDDEPLOY:	sed -i 's/mirrorlist/#mirrorlist/g' /etc/yum.repos.d/CentOS-*sed -i 's|#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.org|g' /etc/yum.repos.d/CentOS-*
+01:11:47	CLOUDDEPLOY:	FROM ubuntuMAINTAINER rajuLABEL "application_enviroment="dev"RUN apt-get updateRUN apt install git maven tree -yUSER rootCMD["echo","Hello World"]ENTRYPOINT ["myapplication.py"]ARGS version 2WORKDIR /optEXPOSE 80COPY /opt/abc.txt /data/ADD /opt/abc.txt /data/

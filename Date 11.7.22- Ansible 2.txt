@@ -1,0 +1,4 @@
+00:00:42	CLOUDDEPLOY:	Class is going to start in 2 mins
+00:03:02	CLOUDDEPLOY:	https://github.com/rajulucky812/ansible/tree/main/01.AnsiblePlaybooks
+00:24:03	Kamtakp:	1 ques?
+00:54:22	Kamtakp:	ques?

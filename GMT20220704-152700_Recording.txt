@@ -1,0 +1,6 @@
+00:15:18	CLOUDDEPLOY:	https://aws.amazon.com/
+00:32:50	CLOUDDEPLOY:	https://github.com/rajulucky812/frozenyogurtshop
+00:33:59	CLOUDDEPLOY:	https://www.putty.org/
+00:58:11	CLOUDDEPLOY:	2  yum install git httpd    3  systemctl start httpd    4  git clone https://github.com/rajulucky812/frozenyogurtshop.git /var/www/html/    5  ls /var/www/html
+01:02:57	CLOUDDEPLOY:	https://winscp.net/eng/download.php
+01:04:53	CLOUDDEPLOY:	7386574009

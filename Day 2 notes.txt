@@ -1,0 +1,4 @@
+00:25:57	CLOUDDEPLOY:	https://aws.amazon.com/about-aws/global-infrastructure/
+00:57:40	CLOUDDEPLOY:	https://git-scm.com/downloads
+00:58:05	CLOUDDEPLOY:	https://www.putty.org/
+01:01:08	CLOUDDEPLOY:	https://notepad-plus-plus.org/downloads/

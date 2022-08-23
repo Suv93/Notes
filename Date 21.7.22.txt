@@ -1,0 +1,2 @@
+00:00:38	CLOUDDEPLOY:	Hi all please wait... class is going to start 9:15pm
+00:14:21	CLOUDDEPLOY:	https://github.com/rajusw804/jenkins-docker-project

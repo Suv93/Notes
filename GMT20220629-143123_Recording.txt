@@ -1,0 +1,2 @@
+00:27:06	CLOUDDEPLOY:	2 mins sorry...
+00:42:59	CLOUDDEPLOY:	Linuxec2amiebssnapshotselbautoscalings3iamvpcrdssnscloudwatchcloud formation

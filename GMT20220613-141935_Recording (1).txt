@@ -1,0 +1,2 @@
+00:24:13	CLOUDDEPLOY:	#!/bin/bashsudo yum update -ysudo yum install httpd -ysudo systemctl start httpdsudo systemctl enable httpdecho “Hello World from 1st instance” > /var/www/html/index.html
+00:50:35	CLOUDDEPLOY:	http://myalb-2072416211.us-east-1.elb.amazonaws.com/

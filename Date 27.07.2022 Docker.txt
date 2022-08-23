@@ -1,0 +1,2 @@
+00:20:59	CLOUDDEPLOY:	https://github.com/rajulucky812/jenkins-docker-project
+00:59:20	CLOUDDEPLOY:	https://github.com/rajulucky812/Setup_Files/blob/main/k8setup.txt
